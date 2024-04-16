@@ -62,12 +62,20 @@ h4{
    transition: all 2s ease-in 1s repeat;
 }
 #img-main{
-  width: 40rem;
-  height: 40rem;
+  width: 70%;
 }
 .card-img-top{
   width: 15rem;
   
 }
-
+h2{
+  font-weight: 600;
+}
+.card{
  
+  padding: 1.2rem;
+}
+ .card-title{
+  font-size: 1.5rem;
+  font-weight: 400;
+ }
